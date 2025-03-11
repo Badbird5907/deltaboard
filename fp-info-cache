@@ -1,4 +1,4 @@
-24735605853037895
+24763465473046645
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6460,6 +6460,48 @@ capacitor tantalum
 0
 2
 2
+Components
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Components
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+Components
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
+Components
+SW-TH_KH-SS12F23-G6
+
+
+0
+5
+5
+Components
+USB-C_SMD-TYPE-C-31-M-12
+
+
+0
+20
+20
+Components
+encoder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
 Connector
 Banana_Cliff_FCR7350B_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, black, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
@@ -99508,6 +99550,76 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
+0
+2
+2
+neopixel.petty
+SK6812MINI-E
+
+
+0
+4
+4
+switches
+Hotswap_MX
+keyswitch Hotswap Socket
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout
+0
+2
+2
+switches
+Hotswap_MX_1.00u
+keyswitch Hotswap Socket Keycap 1.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u
+0
+2
+2
+switches
+Hotswap_MX_1.25u
+keyswitch Hotswap Socket Keycap 1.25u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u
+0
+2
+2
+switches
+Hotswap_MX_1.50u
+keyswitch Hotswap Socket Keycap 1.50u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u
+0
+2
+2
+switches
+Hotswap_MX_1.75u
+keyswitch Hotswap Socket Keycap 1.75u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.75u
+0
+2
+2
+switches
+Hotswap_MX_2.00u
+keyswitch Hotswap Socket Keycap 2.00u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u
+0
+2
+2
+switches
+Hotswap_MX_2.25u
+keyswitch Hotswap Socket Keycap 2.25u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u
+0
+2
+2
+switches
+Hotswap_MX_2.75u
+keyswitch Hotswap Socket Keycap 2.75u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u
+0
+2
+2
+switches
+Hotswap_MX_6.25u
+keyswitch Hotswap Socket Keycap 6.25u
+Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.25u
 0
 2
 2
