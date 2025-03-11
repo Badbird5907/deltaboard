@@ -15049,7 +15049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 389.89 97.79 0)
 			(effects
 				(font
@@ -15258,7 +15258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 313.69 85.09 0)
 			(effects
 				(font
@@ -16081,7 +16081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 191.77 66.04 0)
 			(effects
 				(font
@@ -16225,7 +16225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 166.37 123.19 0)
 			(effects
 				(font
@@ -16511,7 +16511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 338.7852 278.13 0)
 			(effects
 				(font
@@ -16723,7 +16723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 349.25 66.04 0)
 			(effects
 				(font
@@ -16857,7 +16857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 369.57 85.09 0)
 			(effects
 				(font
@@ -16991,7 +16991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 171.45 66.04 0)
 			(effects
 				(font
@@ -17409,7 +17409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 222.25 85.09 0)
 			(effects
 				(font
@@ -17477,7 +17477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 318.77 97.79 0)
 			(effects
 				(font
@@ -18113,7 +18113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 85.09 123.19 0)
 			(effects
 				(font
@@ -18181,7 +18181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 92.71 135.89 0)
 			(effects
 				(font
@@ -18249,7 +18249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 283.21 66.04 0)
 			(effects
 				(font
@@ -18449,7 +18449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 338.7852 256.54 0)
 			(effects
 				(font
@@ -18922,7 +18922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 278.13 110.49 0)
 			(effects
 				(font
@@ -19404,7 +19404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 85.09 0)
 			(effects
 				(font
@@ -20093,7 +20093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 46.99 110.49 0)
 			(effects
 				(font
@@ -20226,7 +20226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 303.53 66.04 0)
 			(effects
 				(font
@@ -20886,7 +20886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 252.73 97.79 0)
 			(effects
 				(font
@@ -21086,7 +21086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 270.51 135.89 0)
 			(effects
 				(font
@@ -21220,7 +21220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 39.37 85.09 0)
 			(effects
 				(font
@@ -21364,7 +21364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 135.89 110.49 0)
 			(effects
 				(font
@@ -22117,7 +22117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 120.65 66.04 0)
 			(effects
 				(font
@@ -22939,7 +22939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 364.1852 256.54 0)
 			(effects
 				(font
@@ -23075,7 +23075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 389.89 135.89 0)
 			(effects
 				(font
@@ -23143,7 +23143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 97.79 0)
 			(effects
 				(font
@@ -23417,7 +23417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 41.91 135.89 0)
 			(effects
 				(font
@@ -23702,7 +23702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 389.89 85.09 0)
 			(effects
 				(font
@@ -24251,7 +24251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 369.57 135.89 0)
 			(effects
 				(font
@@ -24384,7 +24384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 90.17 97.79 0)
 			(effects
 				(font
@@ -25197,7 +25197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 66.04 0)
 			(effects
 				(font
@@ -25549,7 +25549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 44.45 97.79 0)
 			(effects
 				(font
@@ -25679,7 +25679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 217.17 110.49 0)
 			(effects
 				(font
@@ -26363,7 +26363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 52.07 123.19 0)
 			(effects
 				(font
@@ -26572,7 +26572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 69.85 97.79 0)
 			(effects
 				(font
@@ -26706,7 +26706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 257.81 110.49 0)
 			(effects
 				(font
@@ -26902,7 +26902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 262.89 85.09 0)
 			(effects
 				(font
@@ -27749,7 +27749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 66.04 0)
 			(effects
 				(font
@@ -27893,7 +27893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 247.65 123.19 0)
 			(effects
 				(font
@@ -28513,7 +28513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 232.41 66.04 0)
 			(effects
 				(font
@@ -28909,7 +28909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 369.57 123.19 0)
 			(effects
 				(font
@@ -29659,7 +29659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 85.09 0)
 			(effects
 				(font
@@ -29727,7 +29727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 349.25 135.89 0)
 			(effects
 				(font
@@ -29990,7 +29990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 130.81 97.79 0)
 			(effects
 				(font
@@ -30124,7 +30124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 95.25 110.49 0)
 			(effects
 				(font
@@ -30258,7 +30258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 123.19 0)
 			(effects
 				(font
@@ -30326,7 +30326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 146.05 123.19 0)
 			(effects
 				(font
@@ -30810,7 +30810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 242.57 85.09 0)
 			(effects
 				(font
@@ -31425,7 +31425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 394.97 69.85 0)
 			(effects
 				(font
@@ -31842,7 +31842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 321.31 135.89 0)
 			(effects
 				(font
@@ -31910,7 +31910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 66.04 0)
 			(effects
 				(font
@@ -32316,7 +32316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 110.49 0)
 			(effects
 				(font
@@ -32384,7 +32384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 245.11 135.89 0)
 			(effects
 				(font
@@ -32658,7 +32658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 105.41 123.19 0)
 			(effects
 				(font
@@ -32857,7 +32857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 273.05 97.79 0)
 			(effects
 				(font
@@ -33055,7 +33055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 376.8852 256.54 0)
 			(effects
 				(font
@@ -33201,7 +33201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 369.57 97.79 0)
 			(effects
 				(font
@@ -33269,7 +33269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 181.61 85.09 0)
 			(effects
 				(font
@@ -33675,7 +33675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 364.1852 278.13 0)
 			(effects
 				(font
@@ -34216,7 +34216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 212.09 66.04 0)
 			(effects
 				(font
@@ -34425,7 +34425,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 376.8852 278.13 0)
 			(effects
 				(font
@@ -34637,7 +34637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 123.19 0)
 			(effects
 				(font
@@ -35097,7 +35097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 283.21 85.09 0)
 			(effects
 				(font
@@ -36190,7 +36190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 120.65 85.09 0)
 			(effects
 				(font
@@ -36935,7 +36935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 237.49 110.49 0)
 			(effects
 				(font
@@ -37135,7 +37135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 306.07 123.19 0)
 			(effects
 				(font
@@ -37203,7 +37203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 196.85 110.49 0)
 			(effects
 				(font
@@ -37479,7 +37479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 161.29 85.09 0)
 			(effects
 				(font
@@ -37613,7 +37613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 212.09 97.79 0)
 			(effects
 				(font
@@ -38145,7 +38145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 123.19 0)
 			(effects
 				(font
@@ -38495,7 +38495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 110.49 97.79 0)
 			(effects
 				(font
@@ -38846,7 +38846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 59.69 85.09 0)
 			(effects
 				(font
@@ -39949,7 +39949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 267.97 123.19 0)
 			(effects
 				(font
@@ -40148,7 +40148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 293.37 97.79 0)
 			(effects
 				(font
@@ -40347,7 +40347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 110.49 0)
 			(effects
 				(font
@@ -40744,7 +40744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 168.91 135.89 0)
 			(effects
 				(font
@@ -40812,7 +40812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 67.31 135.89 0)
 			(effects
 				(font
@@ -40880,7 +40880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 110.49 0)
 			(effects
 				(font
@@ -41080,7 +41080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 232.41 97.79 0)
 			(effects
 				(font
@@ -41148,7 +41148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 349.25 97.79 0)
 			(effects
 				(font
@@ -42226,7 +42226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 295.91 135.89 0)
 			(effects
 				(font
@@ -42426,7 +42426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 323.85 66.04 0)
 			(effects
 				(font
@@ -42637,7 +42637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 351.4852 256.54 0)
 			(effects
 				(font
@@ -42971,7 +42971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 191.77 97.79 0)
 			(effects
 				(font
@@ -43039,7 +43039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 262.89 66.04 0)
 			(effects
 				(font
@@ -43174,7 +43174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 311.15 110.49 0)
 			(effects
 				(font
@@ -43769,7 +43769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 85.09 0)
 			(effects
 				(font
@@ -43837,7 +43837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 171.45 97.79 0)
 			(effects
 				(font
@@ -45453,7 +45453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 349.25 85.09 0)
 			(effects
 				(font
@@ -45850,7 +45850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 115.57 110.49 0)
 			(effects
 				(font
@@ -46190,7 +46190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 207.01 123.19 0)
 			(effects
 				(font
@@ -46522,7 +46522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 39.37 66.04 0)
 			(effects
 				(font
@@ -47186,7 +47186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 351.4852 278.13 0)
 			(effects
 				(font
@@ -47322,7 +47322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 369.57 66.04 0)
 			(effects
 				(font
@@ -47732,7 +47732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 85.09 0)
 			(effects
 				(font
