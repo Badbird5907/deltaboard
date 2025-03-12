@@ -3,4 +3,5 @@
   (lib (name "Components")(type "KiCad")(uri "${KIPRJMOD}/Components")(options "")(descr ""))
   (lib (name "neopixel.petty")(type "KiCad")(uri "${KIPRJMOD}/Components/neopixel.petty")(options "")(descr ""))
   (lib (name "switches")(type "KiCad")(uri "${KIPRJMOD}/Components/switches")(options "")(descr ""))
+  (lib (name "stabalizer")(type "KiCad")(uri "${KIPRJMOD}/Components/stabalizers")(options "")(descr ""))
 )

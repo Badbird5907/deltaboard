@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "ScottoKeebs")(type "KiCad")(uri "${KIPRJMOD}/Components/ScottoKeebs.kicad_sym")(options "")(descr ""))
   (lib (name "neopixel")(type "KiCad")(uri "${KIPRJMOD}/Components/neopixel.petty/neopixel.kicad_sym")(options "")(descr ""))
+  (lib (name "XMDK-12C01-25")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Components/XMDK-12C01-25.elibz")(options "")(descr ""))
 )

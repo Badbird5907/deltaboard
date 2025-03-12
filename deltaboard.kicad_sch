@@ -4270,31 +4270,27 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Switch:SW_SPST"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
+		(symbol "XMDK-12C01-25:XDMK-12C01-25"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 0 3.175 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "SW_SPST"
-				(at 0 -2.54 0)
+			(property "Value" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "XMDK-12C01-25:SW-SMD_XDMK-12C01-25"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4303,7 +4299,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
+			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230825/2E14AD552E80A107BA31E3CCD9245811.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4312,7 +4308,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Single Pole Single Throw (SPST) switch"
+			(property "Description" "Circuit:SPST Actuator Style:- Pin Style:- Switch Length:- Switch Width:- Switch Height:- Mounting Style:Standing paste Actuator Color:- Current Rating:- Voltage Rating:12V Mechanical Life:- Operating Temperature:- Operating Temperature:-"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4321,7 +4317,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "switch lever"
+			(property "Manufacturer Part" "XDMK-12C01-25"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4330,10 +4326,46 @@
 					(hide yes)
 				)
 			)
-			(symbol "SW_SPST_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
+			(property "Manufacturer" "LX(连欣科技)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C7498220"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part Name" "7脚拨动开关 二挡7脚拨动卧式贴片"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "XDMK-12C01-25_1_0"
+				(rectangle
+					(start -10.16 -2.54)
+					(end 10.16 5.08)
 					(stroke
 						(width 0)
 						(type default)
@@ -4344,7 +4376,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 0.254) (xy 1.524 1.778)
+						(xy 5.08 5.08) (xy 5.08 7.62) (xy 5.08 7.62) (xy 2.54 7.62) (xy 2.54 7.62) (xy 2.54 5.08)
 					)
 					(stroke
 						(width 0)
@@ -4354,26 +4386,31 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_SPST_1_1"
-				(pin passive line
-					(at -5.08 0 0)
+				(pin unspecified line
+					(at -12.7 2.54 0)
 					(length 2.54)
-					(name "A"
+					(name "5"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 -7.62 90)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
 							)
 						)
 					)
@@ -4385,17 +4422,53 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
+				(pin unspecified line
+					(at -5.08 -7.62 90)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "2"
+				)
+				(pin unspecified line
+					(at 5.08 -7.62 90)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 2.54 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5001,128 +5074,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:VBUS"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "VBUS"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VBUS\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VBUS_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VBUS_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:VCC"
 			(power)
 			(pin_numbers
@@ -5456,7 +5407,7 @@
 	)
 	(text "Make sure C8 is close to pin 45 of RP2040"
 		(exclude_from_sim no)
-		(at 508.508 191.008 0)
+		(at 454.66 188.468 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5494,12 +5445,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22747430-8245-4f01-8b23-bc043111352a")
-	)
-	(junction
-		(at 541.02 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b96c976-89a8-4cbd-8513-a0b5c64ca9b1")
 	)
 	(junction
 		(at 417.83 64.77)
@@ -5550,16 +5495,22 @@
 		(uuid "3e67e388-39f1-4798-9c94-330a64d16acc")
 	)
 	(junction
-		(at 535.94 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e923488-4fbe-4e37-b1f8-16d710b2e455")
-	)
-	(junction
 		(at 472.44 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52bb9cb4-bc61-4ec5-8fd9-86f8770164b7")
+	)
+	(junction
+		(at 546.1 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5859be12-f516-468f-a358-fe590215b5fc")
+	)
+	(junction
+		(at 548.64 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "665fa05b-864e-477d-bc5a-4cf73d5d9038")
 	)
 	(junction
 		(at 429.26 201.93)
@@ -5817,16 +5768,6 @@
 	)
 	(wire
 		(pts
-			(xy 535.94 63.5) (xy 541.02 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b265487-9ab8-4d69-8e0a-13b37eee11dd")
-	)
-	(wire
-		(pts
 			(xy 513.08 240.03) (xy 528.32 240.03)
 		)
 		(stroke
@@ -5834,6 +5775,16 @@
 			(type default)
 		)
 		(uuid "0cf8c7ec-75a2-4c5e-b718-db4b0ce2fc88")
+	)
+	(wire
+		(pts
+			(xy 548.64 63.5) (xy 549.91 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e101bdb-b77a-40d7-983d-fa8c4130c622")
 	)
 	(wire
 		(pts
@@ -6014,6 +5965,16 @@
 			(type default)
 		)
 		(uuid "1be19856-47e0-4581-abd3-fd4a2fcc1856")
+	)
+	(wire
+		(pts
+			(xy 534.67 59.69) (xy 534.67 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bf40a0f-4d26-487f-bd7e-78500cb21351")
 	)
 	(wire
 		(pts
@@ -6447,6 +6408,16 @@
 	)
 	(wire
 		(pts
+			(xy 546.1 63.5) (xy 548.64 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45956c22-a39a-428d-9c25-0d5ce4e02c35")
+	)
+	(wire
+		(pts
 			(xy 478.79 99.06) (xy 478.79 100.33)
 		)
 		(stroke
@@ -6757,13 +6728,23 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 67.31) (xy 476.25 68.58)
+			(xy 562.61 267.97) (xy 562.61 269.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6400e611-6514-4d4c-84e9-61a95506669f")
+	)
+	(wire
+		(pts
+			(xy 524.51 63.5) (xy 524.51 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6403f947-7a34-48b6-92ef-12499e74f7cd")
 	)
 	(wire
 		(pts
@@ -6884,6 +6865,16 @@
 			(type default)
 		)
 		(uuid "6f759cca-c055-400c-99f2-669716e37b26")
+	)
+	(wire
+		(pts
+			(xy 521.97 63.5) (xy 524.51 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fc267dd-2be0-4293-97bf-4a3da8a6ede9")
 	)
 	(wire
 		(pts
@@ -7227,7 +7218,7 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 50.8) (xy 541.02 52.07)
+			(xy 546.1 50.8) (xy 546.1 52.07)
 		)
 		(stroke
 			(width 0)
@@ -7267,7 +7258,7 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 59.69) (xy 541.02 63.5)
+			(xy 546.1 59.69) (xy 546.1 63.5)
 		)
 		(stroke
 			(width 0)
@@ -7464,6 +7455,16 @@
 			(type default)
 		)
 		(uuid "a151edc9-ca34-4bdb-9815-052776d94a11")
+	)
+	(wire
+		(pts
+			(xy 548.64 67.31) (xy 548.64 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d5e7a5-267e-4117-9721-0e25618eb26f")
 	)
 	(wire
 		(pts
@@ -7917,16 +7918,6 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 63.5) (xy 549.91 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c45a20b4-b1f8-43bf-94e5-52bdc97e3f9c")
-	)
-	(wire
-		(pts
 			(xy 109.22 161.29) (xy 115.57 161.29)
 		)
 		(stroke
@@ -8004,16 +7995,6 @@
 			(type default)
 		)
 		(uuid "c9014385-7751-48f1-bc89-6869686da1be")
-	)
-	(wire
-		(pts
-			(xy 532.13 63.5) (xy 535.94 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc7246d7-19a1-456c-ab82-9197c0e793c3")
 	)
 	(wire
 		(pts
@@ -8117,7 +8098,7 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 57.15) (xy 476.25 59.69)
+			(xy 562.61 257.81) (xy 562.61 260.35)
 		)
 		(stroke
 			(width 0)
@@ -8274,6 +8255,16 @@
 			(type default)
 		)
 		(uuid "eacfda83-5c05-465c-8dd4-71ed89a68688")
+	)
+	(wire
+		(pts
+			(xy 534.67 63.5) (xy 546.1 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb8e4289-567e-48eb-9404-cd85acc4fa44")
 	)
 	(wire
 		(pts
@@ -14306,70 +14297,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VBUS")
-		(at 535.94 63.5 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005f069fc0")
-		(property "Reference" "#PWR03"
-			(at 535.94 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS"
-			(at 535.94 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 535.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 535.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 535.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ad2b2a2d-6789-4373-83ba-465582862a7e")
-		)
-		(instances
-			(project "deltaboard"
-				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 557.53 72.39 0)
 		(unit 1)
@@ -14499,7 +14426,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 541.02 55.88 180)
+		(at 546.1 55.88 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14507,7 +14434,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f09255d")
 		(property "Reference" "C1"
-			(at 538.099 57.0484 0)
+			(at 550.672 53.1114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14516,7 +14443,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 538.099 54.737 0)
+			(at 550.672 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14525,7 +14452,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 540.0548 52.07 0)
+			(at 545.1348 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14534,7 +14461,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 541.02 55.88 0)
+			(at 546.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14543,7 +14470,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 541.02 55.88 0)
+			(at 546.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14635,7 +14562,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 541.02 50.8 180)
+		(at 546.1 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14643,7 +14570,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f093d45")
 		(property "Reference" "#PWR04"
-			(at 541.02 44.45 0)
+			(at 546.1 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14652,7 +14579,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 541.02 47.244 0)
+			(at 546.1 47.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14660,7 +14587,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 541.02 50.8 0)
+			(at 546.1 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14669,7 +14596,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 541.02 50.8 0)
+			(at 546.1 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14678,7 +14605,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 541.02 50.8 0)
+			(at 546.1 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14763,7 +14690,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 476.25 57.15 0)
+		(at 562.61 257.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14771,7 +14698,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1af967")
 		(property "Reference" "#PWR024"
-			(at 476.25 60.96 0)
+			(at 562.61 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14780,7 +14707,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 476.631 52.7558 0)
+			(at 562.991 253.4158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14788,7 +14715,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 476.25 57.15 0)
+			(at 562.61 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14797,7 +14724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 476.25 57.15 0)
+			(at 562.61 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14806,7 +14733,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 476.25 57.15 0)
+			(at 562.61 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14827,7 +14754,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 476.25 63.5 0)
+		(at 562.61 264.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14835,7 +14762,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1af96d")
 		(property "Reference" "C17"
-			(at 479.171 62.3316 0)
+			(at 565.531 262.9916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14844,7 +14771,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 479.171 64.643 0)
+			(at 565.531 265.303 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14853,7 +14780,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 477.2152 67.31 0)
+			(at 563.5752 267.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14862,7 +14789,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 476.25 63.5 0)
+			(at 562.61 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14871,7 +14798,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 476.25 63.5 0)
+			(at 562.61 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14895,7 +14822,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 476.25 68.58 0)
+		(at 562.61 269.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14903,7 +14830,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f1af973")
 		(property "Reference" "#PWR025"
-			(at 476.25 74.93 0)
+			(at 562.61 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14912,7 +14839,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 472.44 69.85 0)
+			(at 558.8 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14920,7 +14847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 476.25 68.58 0)
+			(at 562.61 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14929,7 +14856,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 476.25 68.58 0)
+			(at 562.61 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14938,7 +14865,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 476.25 68.58 0)
+			(at 562.61 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18562,6 +18489,128 @@
 			(project "deltaboard"
 				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
 					(reference "LED9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "XMDK-12C01-25:XDMK-12C01-25")
+		(at 529.59 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ac4d4e6-6b4e-4eb8-b80e-89b20e5a3678")
+		(property "Reference" "SW1"
+			(at 529.59 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ON/OFF"
+			(at 529.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components:SW-SMD_XDMK-12C01-25"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230825/2E14AD552E80A107BA31E3CCD9245811.pdf"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Circuit:SPST Actuator Style:- Pin Style:- Switch Length:- Switch Width:- Switch Height:- Mounting Style:Standing paste Actuator Color:- Current Rating:- Voltage Rating:12V Mechanical Life:- Operating Temperature:- Operating Temperature:-"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "XDMK-12C01-25"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "LX(连欣科技)"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part" "C7498220"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "7脚拨动开关 二挡7脚拨动卧式贴片"
+			(at 529.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "d25d5be0-3967-4e41-a128-169f713ff123")
+		)
+		(pin "3"
+			(uuid "a130bdfd-c760-42b4-86ad-bdd42893fc84")
+		)
+		(pin "4"
+			(uuid "3638d1b6-35af-4cbb-8653-74fa0244b88e")
+		)
+		(pin "1"
+			(uuid "f628f14b-4bb1-44bd-826e-5fe7959d596d")
+		)
+		(pin "2"
+			(uuid "1c0aea37-ea4e-4f8c-a8b2-bebefce40533")
+		)
+		(instances
+			(project ""
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -46298,6 +46347,71 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
+		(at 548.64 67.31 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f37e131f-d1c0-4617-8faa-e3bf9ffffdae")
+		(property "Reference" "#PWR0219"
+			(at 548.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 551.688 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 548.64 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 548.64 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 548.64 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "92f426d2-4e50-4653-a6f4-b8fbfd31ccb6")
+		)
+		(instances
+			(project "deltaboard"
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "#PWR0219")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
 		(at 76.2 274.32 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47488,74 +47602,6 @@
 			(project "deltaboard"
 				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
 					(reference "#PWR0137")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 527.05 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fe6bfc0c-7d5d-487e-9894-7a51f8230992")
-		(property "Reference" "SW1"
-			(at 527.05 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_SPST"
-			(at 527.05 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 527.05 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 527.05 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 527.05 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e72f01bf-cb5c-4467-99b7-cb73c6b845aa")
-		)
-		(pin "1"
-			(uuid "364b9ca3-9bc8-4cfa-94e8-5050392c6395")
-		)
-		(instances
-			(project ""
-				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
-					(reference "SW1")
 					(unit 1)
 				)
 			)
