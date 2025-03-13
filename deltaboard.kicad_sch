@@ -8696,6 +8696,16 @@
 		)
 		(uuid "145f7760-beaf-4495-852f-e3728f384513")
 	)
+	(label "GPIO2"
+		(at 33.02 360.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "15f43961-8def-4930-beb0-24e548c36330")
+	)
 	(label "COL_4"
 		(at 125.73 96.52 180)
 		(effects
@@ -8735,16 +8745,6 @@
 			(justify left bottom)
 		)
 		(uuid "16f8385a-6671-4951-94cd-60465139135d")
-	)
-	(label "GPIO22"
-		(at 33.02 381 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "175179af-cea2-460f-88df-13156d5ce75b")
 	)
 	(label "ROW_2"
 		(at 110.49 91.44 0)
@@ -9196,6 +9196,16 @@
 		)
 		(uuid "47e606f6-f6dd-4656-95be-8f4771b60eeb")
 	)
+	(label "GPIO23"
+		(at 33.02 340.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "481b12fc-0f9d-4fa6-8808-c6f88edcb5d4")
+	)
 	(label "GPIO25"
 		(at 528.32 290.83 180)
 		(effects
@@ -9295,16 +9305,6 @@
 			(justify left bottom)
 		)
 		(uuid "53915972-9ba9-4f8a-a709-496820929f32")
-	)
-	(label "GPIO1"
-		(at 62.23 359.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "547bd6ba-b206-4704-9144-97c3be0ff09f")
 	)
 	(label "COL_11"
 		(at 252.73 71.12 180)
@@ -10016,16 +10016,6 @@
 		)
 		(uuid "99cdc937-3bae-485b-98c9-28ec30a3f4c3")
 	)
-	(label "GPIO2"
-		(at 62.23 361.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "99dcf7a0-db40-4476-a88f-e58172b5e1d8")
-	)
 	(label "COL_7"
 		(at 171.45 71.12 180)
 		(effects
@@ -10055,6 +10045,16 @@
 			(justify right bottom)
 		)
 		(uuid "9a987936-e128-4468-aa16-01480aec803f")
+	)
+	(label "GPIO1"
+		(at 33.02 345.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9aa28696-5e0a-4ff7-a939-faaa0d9bef31")
 	)
 	(label "COL_14"
 		(at 359.41 52.07 180)
@@ -10326,6 +10326,16 @@
 		)
 		(uuid "a815eebc-4285-45c2-b711-4f661bf49bde")
 	)
+	(label "GPIO8"
+		(at 62.23 359.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a828cc9c-6426-4f43-be4e-a3c41f6ebd10")
+	)
 	(label "COL_1"
 		(at 74.93 109.22 180)
 		(effects
@@ -10405,6 +10415,16 @@
 			(justify right bottom)
 		)
 		(uuid "ad97ca46-2797-489a-8d39-226fb98fd4a9")
+	)
+	(label "GPIO22"
+		(at 60.96 340.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aed8161b-4a84-4da0-bbc5-0151a7838658")
 	)
 	(label "GPIO11"
 		(at 528.32 255.27 180)
@@ -10706,6 +10726,16 @@
 		)
 		(uuid "cb86c655-3b07-4ad3-8122-d1918b006af5")
 	)
+	(label "GPIO14"
+		(at 62.23 361.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbce949b-4d7f-4309-974b-82b273097804")
+	)
 	(label "COL_11"
 		(at 293.37 52.07 180)
 		(effects
@@ -10795,26 +10825,6 @@
 			(justify left bottom)
 		)
 		(uuid "d4c8c417-986e-48ec-955d-354bdca4a562")
-	)
-	(label "GPIO8"
-		(at 33.02 345.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d50556d6-ed8b-47b3-b16c-f0561169cad6")
-	)
-	(label "GPIO6"
-		(at 33.02 340.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d70c5d93-c1b1-4662-8988-4cd4e487211c")
 	)
 	(label "ROW_4"
 		(at 146.05 116.84 0)
@@ -10916,16 +10926,6 @@
 		)
 		(uuid "df939d89-1032-4a1b-9457-f9dcad59c8f0")
 	)
-	(label "GPIO23"
-		(at 60.96 340.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "dfa39545-084f-4dbc-9406-5c5677ff95e9")
-	)
 	(label "COL_15"
 		(at 29.21 378.46 180)
 		(effects
@@ -10945,6 +10945,16 @@
 			(justify right bottom)
 		)
 		(uuid "e0c234ad-18e3-429e-8fea-b351faaad157")
+	)
+	(label "GPIO6"
+		(at 33.02 381 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e10ffad6-1697-4c3d-a981-2329ea073c9c")
 	)
 	(label "QSPI_SD2"
 		(at 445.77 124.46 0)
@@ -11105,16 +11115,6 @@
 			(justify left bottom)
 		)
 		(uuid "f0d3ac3f-6378-4b86-aed2-0b7d83597446")
-	)
-	(label "GPIO14"
-		(at 33.02 360.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f1a60433-6a80-46bd-84b8-5931bc034bbc")
 	)
 	(label "ROW_3"
 		(at 58.42 364.49 180)
