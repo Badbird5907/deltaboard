@@ -1,6 +1,6 @@
 # Deltaboard
 
-Deltaboard is a WIP mechanical keyboard TKL.
+Deltaboard is a TKL mechanical keyboard.
 
 ## Features:
 - TKL Layout
