@@ -19,11 +19,11 @@
         "rows": ["GP0", "GP8", "GP14", "GP3", "GP4", "GP5"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/Badbird5907/deltaboard",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x1209",
+        "vid": "0xDE20"
     },
     "layouts": {
         "LAYOUT_tkl_ansi": {
