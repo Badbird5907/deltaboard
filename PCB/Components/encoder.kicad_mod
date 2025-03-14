@@ -1,7 +1,7 @@
 (footprint "encoder"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
 	(tags "rotary encoder")
@@ -23,19 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "8b2c011c-d780-4e6c-8f38-459b73a40f22")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -204,7 +191,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "f305ebc3-91eb-4171-8e14-3b9229bea43d")
 	)
@@ -325,7 +312,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "5e887882-c6b8-4374-9393-8af20b9e77ea")
 	)
@@ -396,6 +383,7 @@
 		(remove_unused_layers no)
 		(uuid "e4806ec9-285f-4aec-99da-67ca111daa66")
 	)
+	(embedded_fonts no)
 	(model "${KIPRJMOD}/Components/EC11_Rotary_Encoder_Switched.step"
 		(offset
 			(xyz 7.5 -2.5 0)
