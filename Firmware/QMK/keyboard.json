@@ -10,11 +10,13 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "encoder": true
+
     },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2"],
-        "rows": ["D1", "D1", "D1", "D1", "D1", "D1"]
+        "cols": ["GP23", "GP7", "GP1", "GP9", "GP10", "GP11", "GP12", "GP13", "GP2", "GP15", "GP16", "GP17", "GP18", "GP19", "GP20", "GP21", "GP6"],
+        "rows": ["GP0", "GP8", "GP14", "GP3", "GP4", "GP5"]
     },
     "processor": "RP2040",
     "url": "",

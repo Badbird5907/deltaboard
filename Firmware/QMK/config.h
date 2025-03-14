@@ -1,0 +1,11 @@
+#pragma once
+
+#define ENCODER_A_PINS { GP27 }
+#define ENCODER_B_PINS { GP26 }
+
+#define ENCODER_RESOLUTION 4
+#define ENCODER_SCALING 1
+#define NUM_ENCODERS 1
+
+#define BACKLIGHT_PIN GP22
+#define BACKLIGHT_BREATHING
