@@ -420,9 +420,9 @@
 		(uuid "b27ca8f6-5a28-45b8-b95a-4876cce69a99")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/SW-SMD_XDMK-12C01-25.step"
+	(model "${KIPRJMOD}/Components/switch_kps-1290.stp"
 		(offset
-			(xyz 0 1.1 -0.5)
+			(xyz 0 0.35 0.7)
 		)
 		(scale
 			(xyz 1 1 1)

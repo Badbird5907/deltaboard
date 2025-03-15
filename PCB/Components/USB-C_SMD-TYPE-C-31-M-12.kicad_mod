@@ -880,15 +880,15 @@
 		(uuid "a45c87bd-04f1-45af-8eeb-8541d81f4a39")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/EASYEDA_MODELS/USB-C_SMD-TYPE-C-31-M-12.step"
+	(model "${KIPRJMOD}/Components/usbc.step"
 		(offset
-			(xyz 0 -1.144 -1)
+			(xyz 0 2.2 1.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -180)
+			(xyz -0 -180 -180)
 		)
 	)
 )
