@@ -25,3 +25,6 @@ Deltaboard is a TKL mechanical keyboard.
 
 ### Back
 ![Back](https://raw.githubusercontent.com/Badbird5907/deltaboard/refs/heads/master/images/back.png)
+
+### Case
+![Case](https://raw.githubusercontent.com/Badbird5907/deltaboard/refs/heads/master/images/case.png)
