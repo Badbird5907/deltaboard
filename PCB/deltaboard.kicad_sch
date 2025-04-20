@@ -5417,6 +5417,12 @@
 		(uuid "f651c608-9734-43ea-b783-f25fc6389d8e")
 	)
 	(junction
+		(at 100.33 377.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00f126d7-1060-4891-9fa0-60b6be8ea4cf")
+	)
+	(junction
 		(at 477.52 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6755,6 +6761,16 @@
 			(type default)
 		)
 		(uuid "646509fa-3f40-4e8e-9d7e-3040f18197a1")
+	)
+	(wire
+		(pts
+			(xy 100.33 377.19) (xy 100.33 379.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "655770b4-0645-4f3b-9469-fa65fd6438b1")
 	)
 	(wire
 		(pts
@@ -8305,6 +8321,16 @@
 			(type default)
 		)
 		(uuid "f16927cb-051b-4e04-b8b9-b0826bc3253c")
+	)
+	(wire
+		(pts
+			(xy 100.33 374.65) (xy 100.33 377.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2f66794-5df8-4453-8b0e-2349bc299486")
 	)
 	(wire
 		(pts
@@ -11330,6 +11356,28 @@
 			)
 		)
 	)
+	(global_label "I2C_SDA"
+		(shape input)
+		(at 92.71 374.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3521d957-53a5-4d90-82ea-f9e0a700b111")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.1048 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED_OUT_0"
 		(shape input)
 		(at 346.71 161.29 0)
@@ -11365,6 +11413,28 @@
 		(uuid "40f61f31-f87b-4324-9513-3f2edb2c3313")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 25.4 264.6656 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C_SCL"
+		(shape input)
+		(at 92.71 379.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "425d8ee1-b500-400d-a169-71bef20aa65b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.1653 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29742,6 +29812,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 96.52 379.73 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7381eeb7-d461-4b76-b491-fa202ee5f8c1")
+		(property "Reference" "R10"
+			(at 96.52 377.698 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 96.52 379.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 96.52 381.508 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 96.52 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bea51f25-e0f3-4ef4-a41c-ac2d84f44e3f")
+		)
+		(pin "2"
+			(uuid "db679722-a315-4051-a543-773355a9e32b")
+		)
+		(instances
+			(project "deltaboard"
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 80.01 74.93 90)
 		(unit 1)
@@ -33744,6 +33881,70 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 100.33 377.19 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "93b04731-a59b-422c-a317-045e116186f8")
+		(property "Reference" "#PWR0220"
+			(at 96.52 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 104.7242 377.571 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a92e68f3-054c-438c-97a0-f5af33c93cd3")
+		)
+		(instances
+			(project "deltaboard"
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "#PWR0220")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "neopixel:SK6812MINI")
 		(at 317.5 220.98 0)
 		(unit 1)
@@ -36057,7 +36258,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a64e9a2d-ccfc-42ea-90ff-8a9fa830c50a")
 		(property "Reference" "J2"
 			(at 554.99 302.26 0)
@@ -44561,6 +44761,73 @@
 			(project "deltaboard"
 				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
 					(reference "#PWR0210")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 96.52 374.65 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e610db9d-0f09-4190-918f-7fbb718c3dc8")
+		(property "Reference" "R7"
+			(at 96.52 372.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 96.52 374.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 96.52 376.428 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 96.52 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1da8dee9-64fa-4d0a-a739-9223275a0f44")
+		)
+		(pin "2"
+			(uuid "ffe9d623-d31a-4838-86c0-34563ea6b544")
+		)
+		(instances
+			(project "deltaboard"
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "R7")
 					(unit 1)
 				)
 			)
