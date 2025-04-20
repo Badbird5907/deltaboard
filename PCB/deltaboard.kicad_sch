@@ -5644,14 +5644,6 @@
 		(color 0 0 0 0)
 		(uuid "ff94b569-33d4-48f3-a186-fd45fda999c4")
 	)
-	(no_connect
-		(at 521.97 78.74)
-		(uuid "c69dfa87-7199-4716-bf3a-4a414511753a")
-	)
-	(no_connect
-		(at 521.97 83.82)
-		(uuid "f101ed76-5025-4cbe-bc56-120645e1307f")
-	)
 	(wire
 		(pts
 			(xy 25.4 311.15) (xy 29.21 311.15)
@@ -6784,6 +6776,16 @@
 	)
 	(wire
 		(pts
+			(xy 521.97 78.74) (xy 530.86 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67f56103-5010-414d-8a69-777f82d45343")
+	)
+	(wire
+		(pts
 			(xy 513.08 298.45) (xy 528.32 298.45)
 		)
 		(stroke
@@ -7011,6 +7013,16 @@
 			(type default)
 		)
 		(uuid "7814de81-b847-4bad-b5f9-b3ba41c9fd68")
+	)
+	(wire
+		(pts
+			(xy 521.97 83.82) (xy 530.86 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7825f6d5-b011-4ec6-883c-cc39bb29ef5f")
 	)
 	(wire
 		(pts
@@ -9082,6 +9094,16 @@
 		)
 		(uuid "3bdbd236-19cf-4d45-a8f6-160df2d67f05")
 	)
+	(label "USB_D+"
+		(at 530.86 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3d333dc5-38ca-41f5-be15-c5ad8689f489")
+	)
 	(label "ROW_3"
 		(at 196.85 104.14 0)
 		(effects
@@ -9421,6 +9443,16 @@
 			(justify right bottom)
 		)
 		(uuid "5b8fd78e-60f9-45fd-843d-94b89fdc9a4d")
+	)
+	(label "USB_D-"
+		(at 530.86 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5d9168f4-e386-4396-8123-674151323bb6")
 	)
 	(label "ROW_3"
 		(at 135.89 104.14 0)
