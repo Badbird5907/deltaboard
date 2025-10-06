@@ -6,7 +6,7 @@
 | DUROCK Stabilizer        | 1        | $8.74         | V3 BS 4x2u 1x6.25u                             | [Aliexpress](https://www.aliexpress.com/item/1005006528731543.html)                                   |
 | M3 Heat Insert           | 1        | $2.39         | 50x, Free shipping                             | [Aliexpress](https://www.aliexpress.com/item/1005003582355741.html)                                   |
 | M3 Screws (6mm)          | 1        | $1.94         | 50x, Free shipping                             | [Aliexpress](https://www.aliexpress.com/item/4001199728978.html)                                      |
-| HyperX Pudding Keycaps   | 1        | $29.84        |                                                | [HyperX](https://ca.hyperx.com/products/hyperx-pudding-keycaps-2-full-key-set?variant=48246908846240) |
+| Wormier Pudding Keycaps   | 1        | $17.91        |                                                | [Amazon](https://www.amazon.ca/XVX-Keycaps-Universal-Compatiability-Keyboard/) |
 | Kailh MX Hotswap Sockets | 90       | $11.35        | 50x + 30x + 10x, Free shipping                 | [Aliexpress](https://www.aliexpress.com/item/1005007225352311.html)                                   |
 | I2C OLED Display (0.91") | 1        | $2.25         | Free shipping                                  | [Aliexpress](https://www.aliexpress.com/item/1005005301005280.html)                                   |
 | EC11 Rotary Encoders     | 1        | $3.40         | 20mm Half Handle, Free shipping                | [Aliexpress](https://www.aliexpress.com/item/1005004907970664.html)                                   |
