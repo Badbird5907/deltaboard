@@ -12,7 +12,7 @@
 | EC11 Rotary Encoders     | 1        | $3.40         | 20mm Half Handle, Free shipping                | [Aliexpress](https://www.aliexpress.com/item/1005004907970664.html)                                   |
 | Encoder Cap              | 1        | $2.23         | Half Handle Lid, Free shipping                 | [Aliexpress](https://www.aliexpress.com/item/1005004907970664.html)                                   |
 | LCSC Parts               | 1        | $27.33        | $12.47 total, $3 handling fee, $11.86 shipping | [BOM](https://github.com/Badbird5907/deltaboard/blob/master/Production/PCB/BOM-deltaboard.csv)        |
-**TOTAL: 125.39 USD**
+**TOTAL: 113.46 USD**
 
 
 
