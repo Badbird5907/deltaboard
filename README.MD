@@ -28,7 +28,7 @@ The hardest part building this project was routing all the switches and componen
 ![Back](https://raw.githubusercontent.com/Badbird5907/deltaboard/refs/heads/master/images/back.png)
 
 ### Case
-![Case](https://raw.githubusercontent.com/Badbird5907/deltaboard/refs/heads/master/images/case.png)
+![Case](https://raw.githubusercontent.com/Badbird5907/deltaboard/refs/heads/master/images/Render.png)
 
 ## BOM
 
