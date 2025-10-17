@@ -3,6 +3,8 @@
 Deltaboard is a TKL mechanical keyboard, directly using the [Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard) as inspiration.
 The hardest part building this project was routing all the switches and components for the RP2040.
 
+[3D Render](https://autode.sk/4qxmMjt)
+
 ## Features:
 - TKL Layout
 - Kailh MX hotswap sockets
