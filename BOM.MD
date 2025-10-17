@@ -5,7 +5,7 @@
 | Cherry MX2A Brown RGB    | 84       | $35.92        | 90x, Free shipping (0.42c/switch)              | [Aliexpress](https://www.aliexpress.com/item/1005007917791662.html)                                   |
 | DUROCK Stabilizer        | 1        | $8.74         | V3 BS 4x2u 1x6.25u                             | [Aliexpress](https://www.aliexpress.com/item/1005006528731543.html)                                   |
 | M3 Heat Insert           | 1        | $2.39         | 50x, Free shipping                             | [Aliexpress](https://www.aliexpress.com/item/1005003582355741.html)                                   |
-| M3 Standoffs (6mm)       | 1        | $2.02         | 50x, Free shippping               |            | [Aliexpress](https://www.aliexpress.com/item/32539100523.html?spm=a2g0o.productlist.0.0.3351234eJmAx93)
+| M3 Standoffs (6mm)       | 1        | $2.02         | 50x, Free shippping               |            | [Aliexpress](https://www.aliexpress.com/item/32539100523.html?spm=a2g0o.productlist.0.0.3351234eJmAx93) |
 | M3 Screws (6mm)          | 1        | $1.94         | 50x, Free shipping                             | [Aliexpress](https://www.aliexpress.com/item/4001199728978.html)                                      |
 | Wormier Pudding Keycaps   | 1        | $17.91        |                                                | [Amazon](https://www.amazon.ca/XVX-Keycaps-Universal-Compatiability-Keyboard/) |
 | Kailh MX Hotswap Sockets | 90       | $11.35        | 50x + 30x + 10x, Free shipping                 | [Aliexpress](https://www.aliexpress.com/item/1005007225352311.html)                                   |
