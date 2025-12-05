@@ -8844,6 +8844,16 @@
 	)
 	(wire
 		(pts
+			(xy 549.91 346.71) (xy 549.91 342.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5dedf68-e1b1-49ef-8306-54162e31d2f2")
+	)
+	(wire
+		(pts
 			(xy 562.61 257.81) (xy 562.61 260.35)
 		)
 		(stroke
@@ -27023,6 +27033,72 @@
 			(project "deltaboard"
 				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
 					(reference "K27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 549.91 346.71 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5493f121-f4fe-4dca-b056-1db7744a62c8")
+		(property "Reference" "TP_3V31"
+			(at 547.878 349.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 547.878 352.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 544.83 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 544.83 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 549.91 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "978fa707-8ed5-458b-9023-15fceb6dce0e")
+		)
+		(instances
+			(project "deltaboard"
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "TP_3V31")
 					(unit 1)
 				)
 			)
@@ -49729,6 +49805,70 @@
 			(project "deltaboard"
 				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
 					(reference "K51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 549.91 342.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffa1fd66-9580-47cd-94fc-77943591006d")
+		(property "Reference" "#PWR0226"
+			(at 549.91 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 550.291 338.5058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 549.91 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 549.91 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 549.91 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "99914727-514e-4dc8-96cb-e45630a8d843")
+		)
+		(instances
+			(project "deltaboard"
+				(path "/e444e1e5-c848-413e-b43f-8b780f56d443"
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
