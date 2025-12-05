@@ -1,4 +1,4 @@
-24775802644280597
+24775819869949629
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6496,12 +6496,12 @@ SW-TH_KH-SS12F23-G6
 5
 5
 Components
-USB-C_SMD-TYPE-C-31-M-12
+USB-C_SMD-TYPE-C-31-M-12_1
 
 
 0
-20
-20
+16
+16
 Components
 encoder
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
